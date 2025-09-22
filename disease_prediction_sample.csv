@@ -1,0 +1,11 @@
+PatientID,Age,Gender,Fever,Cough,Headache,Sore Throat,Fatigue,Nausea,Diagnosis
+1,25,M,Yes,Yes,No,No,No,No,Flu
+2,32,F,No,No,Yes,Yes,Yes,No,Migraine
+3,45,M,Yes,No,No,No,Yes,Yes,Dengue
+4,29,F,No,Yes,Yes,Yes,No,No,Cold
+5,60,F,Yes,Yes,No,No,Yes,No,COVID-19
+6,37,M,No,No,No,No,No,Yes,Food Poisoning
+7,50,F,Yes,No,Yes,No,Yes,No,Malaria
+8,41,M,No,Yes,No,Yes,No,No,Cold
+9,23,F,Yes,Yes,No,No,No,No,Flu
+10,35,M,No,No,Yes,No,Yes,Yes,Dengue
